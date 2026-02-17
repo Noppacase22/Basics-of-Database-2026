@@ -1,0 +1,1 @@
+SELECT * FROM player, ranking WHERE player.player_id = ranking.fk_player_id AND ranking.rank < 11;

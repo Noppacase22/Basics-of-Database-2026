@@ -1,0 +1,1 @@
+UPDATE player SET nationality = 'POR' WHERE nationality = 'ESP';
